@@ -5,9 +5,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int [] national_team = nationalTeam(regionalTeams);
-        for (int i = 0; i < national_team.length; i++){
-            System.out.print(national_team[i] + " ");
+        int [] nationalTeam = nationalTeam(regionalTeams);
+        for (int i = 0; i < nationalTeam.length; i++){
+            System.out.print(nationalTeam[i] + " ");
         }
 
     }

@@ -57,13 +57,13 @@ public class MainTest {
 //    @Test
 //    public void testHamcrest(){
 //        // given:
-//        int[][] regional_teams = {{45, 31, 24, 22, 20, 17, 14, 13, 12, 10},
+//        int[][] regionalTeams = {{45, 31, 24, 22, 20, 17, 14, 13, 12, 10},
 //                {31, 18, 15, 12, 10, 8, 6, 4, 2, 1},{51, 30, 10, 9, 8, 7, 6, 5, 2, 1}};
 //
 //        int [] expected = {51, 45, 31, 31, 30, 24, 22, 20, 18, 17};
 //
 //        // when:
-//        int [] result = Main.national_team(regional_teams);
+//        int [] result = Main.nationalTeam(regionalTeams);
 //
 //        // then:
 //        arrayContaining(result, hasItem(51));
